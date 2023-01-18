@@ -1,0 +1,12 @@
+.design{
+    background-color: black;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #ccc;
+    width: 150px;
+    height: 150px;
+    float: left;
+    color:aquamarine
+}
